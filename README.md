@@ -8,7 +8,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://raw.githubusercontent.com/NadlaFernandes/NadlaFernandes/main/NadlaApenas.JPG" />
+<img data-importer="image" align="right" height="170" src="https://raw.githubusercontent.com/NadlaFernandes/NadlaFernandes/main/NadlaApenas.JPG" />
 
 ###
 
@@ -62,9 +62,7 @@
 
 ###
 
-<div data-importer="image" align="right">
-  <img data-importer="image" height="200" src="https://raw.githubusercontent.com/NadlaFernandes/NadlaFernandes/main/ovelha_gorda_animada-ezgif.com-remove-background.gif" />
-</div>
+<img data-importer="image" align="right" height="200" src="https://raw.githubusercontent.com/NadlaFernandes/NadlaFernandes/main/ovelha_gorda_animada-ezgif.com-remove-background.gif" />
 
 ###
 
