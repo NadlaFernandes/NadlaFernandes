@@ -62,7 +62,9 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://raw.githubusercontent.com/NadlaFernandes/NadlaFernandes/main/ovelha_gorda_animada-ezgif.com-remove-background.gif" />
+<div data-importer="image" align="right">
+  <img data-importer="image" height="150" src="https://raw.githubusercontent.com/NadlaFernandes/NadlaFernandes/main/ovelha_gorda_animada-ezgif.com-remove-background.gif" />
+</div>
 
 ###
 
