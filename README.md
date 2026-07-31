@@ -16,7 +16,7 @@
 
 ###
 
-<p data-importer="text" align="left">Atualmente estou procurando um emprego na área de forma a iniciar minha vida profissional, no link do meu portfólio abaixo tem mais informações sobre minha trajetória e projetos:</p>
+<p data-importer="text" align="left">Atualmente estou procurando um emprego na área para iniciar minha vida profissional, no link do meu portfólio abaixo tem mais informações sobre minha trajetória e projetos:</p>
 
 ###
 
