@@ -1,34 +1,18 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=70&section=header&reversal=false&fontSize=70&fontColor=FF69B4&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=70&section=header&reversal=false&fontSize=70&fontColor=FF69B4&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=9D00FF" />
 </div>
-
-###
 
 <h1 data-importer="text" align="center">Bem Vindo ao meu Perfil!</h1>
 
-###
-
 <img data-importer="image" align="right" height="170" src="https://raw.githubusercontent.com/NadlaFernandes/NadlaFernandes/main/NadlaApenas.JPG" />
-
-###
 
 <p data-importer="text" align="left">Me chamo Nadla Fernandes Ferreira, sou estudante de Desenvolvimento de Software Multiplataforma na Fatec Jacareí – Professor Francisco de Moura e técnica em química formada pela Etec Jacareí. Gosto de desenvolver programas e sistemas variados, tenho paixão por desenvolvimento full-stack e grande interesse em aprender coisas novas.</p>
 
-###
+<p data-importer="text" align="left">Atualmente estou procurando um emprego na área de forma a iniciar minha vida profissional, no link do meu portfólio abaixo tem mais informações sobre minha trajetória e projetos:</p>
 
-<p data-importer="text" align="left">Atualmente estou procurando um emprego na área para iniciar minha vida profissional, no link do meu portfólio abaixo tem mais informações sobre minha trajetória e projetos:</p>
-
-###
-
-<p data-importer="text" align="left">
-  👩‍💻 <a href="https://fatec-jacarei-dsm-portfolio.github.io/ra2581392613046/" target="_blank" rel="noopener noreferrer"><strong>MEU PORTFÓLIO</strong></a>
-</p>
-
-###
+<p data-importer="text" align="left">👩‍💻 <a href="https://fatec-jacarei-dsm-portfolio.github.io/ra2581392613046/">MEU PORTFÓLIO</a></p>
 
 <h2 data-importer="text" align="left">Linguagens de Programação e Tecnologias :</h2>
-
-###
 
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
@@ -60,12 +44,8 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
 </div>
 
-###
-
 <img data-importer="image" align="right" height="200" src="https://raw.githubusercontent.com/NadlaFernandes/NadlaFernandes/main/ovelha_gorda_animada-ezgif.com-remove-background.gif" />
 
-###
-
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=70&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=70&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=9D00FF" />
 </div>
